@@ -14,7 +14,7 @@ import jakarta.persistence.Id;
 // 롬복의 어노테이션
 @Getter
 @NoArgsConstructor
-// Jpa의 어노테이션
+// JPA의 어노테이션
 @Entity
 public class Posts extends BaseTimeEntity {
 
