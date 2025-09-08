@@ -43,4 +43,9 @@ dependencies {
     // Spring Security 기본 스타터(보통 함께 사용)
     implementation 'org.springframework.boot:spring-boot-starter-security'
     implementation 'org.springframework.session:spring-session-jdbc'
+
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+    implementation 'org.springframework.session:spring-session-jdbc'
+
+
 }
